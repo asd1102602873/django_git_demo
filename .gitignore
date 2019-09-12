@@ -1,0 +1,17 @@
+# 自己定义的忽略文件
+.idea
+*.log
+
+
+# windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
